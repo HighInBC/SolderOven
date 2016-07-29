@@ -1,5 +1,5 @@
 # SolderOven
-A control board to turn a toaster over and a relay into a solder oven
+A control board to turn a toaster oven and a relay into a solder oven
 
 While this is a public project I am not planning on documenting it until it is somewhat ready.
 
@@ -32,7 +32,7 @@ A ws2812b LED will be able to switch to any color or brightness to act as an ind
 
 ###Buzzer
 
-A small pizeo buzzer is used to make audio signals to the user
+A small piezo buzzer is used to make audio signals to the user
 
 ###Reset button
 
@@ -51,8 +51,8 @@ A MAX6675 is used to read and digitize the signal from a type-k thermocouple. Tw
 
 ###External temperature sensor
 
-A port to attach a BS18B20 temparature sensor is available. This is used to monitor the temperture of the relay and its housing.
+A port to attach a BS18B20 temperature sensor is available. This is used to monitor the temperature of the relay and its housing.
 
 ###Relay output
 
-A port to attach the logic side of a relay to. It is expected that the relay takes a logic level signal and does its own current limiting. In my case I am using an optoisolated SSD so I am essentially driving an LED.
+A port to attach the logic side of a relay to. It is expected that the relay takes a logic level signal and does its own current limiting. In my case I am using an opto-isolated solid state relay so I am essentially driving an LED.
