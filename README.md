@@ -55,4 +55,4 @@ A port to attach a DS18B20 temperature sensor is available. This is used to moni
 
 ###Relay output
 
-A port to attach the logic side of a relay to. It is expected that the relay takes a logic level signal and does its own current limiting under 40mA.
+A port to attach the logic side of a relay to. It is expected that the relay takes a 5V logic level signal and does its own current limiting under 40mA. If your relay needs more than that then you need to add a suitable transistor.
