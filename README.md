@@ -51,7 +51,7 @@ A MAX6675 is used to read and digitize the signal from a type-k thermocouple. Tw
 
 ###External temperature sensor
 
-A port to attach a BS18B20 temperature sensor is available. This is used to monitor the temperature of the relay and its housing.
+A port to attach a DS18B20 temperature sensor is available. This is used to monitor the temperature of the relay and its housing.
 
 ###Relay output
 
