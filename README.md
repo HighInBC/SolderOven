@@ -55,4 +55,4 @@ A port to attach a BS18B20 temperature sensor is available. This is used to moni
 
 ###Relay output
 
-A port to attach the logic side of a relay to. It is expected that the relay takes a logic level signal and does its own current limiting. In my case I am using an opto-isolated solid state relay so I am essentially driving an LED.
+A port to attach the logic side of a relay to. It is expected that the relay takes a logic level signal and does its own current limiting under 40mA.
