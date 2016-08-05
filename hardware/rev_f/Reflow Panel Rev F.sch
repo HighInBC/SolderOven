@@ -9251,9 +9251,9 @@ knob</text>
 </segment>
 <segment>
 <pinref part="IC2" gate="G$1" pin="DO"/>
-<wire x1="200.66" y1="48.26" x2="196.777" y2="48.248" width="0.1524" layer="91"/>
-<wire x1="196.777" y1="48.248" x2="196.777" y2="45.708" width="0.1524" layer="91"/>
-<label x="196.777" y="45.708" size="1.016" layer="95" rot="R270" xref="yes"/>
+<wire x1="200.66" y1="48.26" x2="195.58" y2="48.26" width="0.1524" layer="91"/>
+<wire x1="195.58" y1="48.26" x2="195.58" y2="45.72" width="0.1524" layer="91"/>
+<label x="195.58" y="45.72" size="1.016" layer="95" rot="R270" xref="yes"/>
 </segment>
 </net>
 <net name="SCK" class="0">
@@ -9264,9 +9264,9 @@ knob</text>
 </segment>
 <segment>
 <pinref part="IC2" gate="G$1" pin="SCK"/>
-<wire x1="200.66" y1="53.34" x2="196.777" y2="53.328" width="0.1524" layer="91"/>
-<wire x1="196.777" y1="53.328" x2="196.777" y2="55.868" width="0.1524" layer="91"/>
-<label x="196.777" y="55.868" size="1.016" layer="95" rot="R90" xref="yes"/>
+<wire x1="200.66" y1="53.34" x2="195.58" y2="53.34" width="0.1524" layer="91"/>
+<wire x1="195.58" y1="53.34" x2="195.58" y2="55.88" width="0.1524" layer="91"/>
+<label x="195.58" y="55.88" size="1.016" layer="95" rot="R90" xref="yes"/>
 </segment>
 </net>
 <net name="RELAY" class="0">
@@ -9289,8 +9289,8 @@ knob</text>
 </segment>
 <segment>
 <pinref part="IC2" gate="G$1" pin="/CS"/>
-<wire x1="200.66" y1="50.8" x2="199.317" y2="50.788" width="0.1524" layer="91"/>
-<label x="199.317" y="50.788" size="1.016" layer="95" rot="R180" xref="yes"/>
+<wire x1="200.66" y1="50.8" x2="198.12" y2="50.8" width="0.1524" layer="91"/>
+<label x="198.12" y="50.8" size="1.016" layer="95" rot="R180" xref="yes"/>
 </segment>
 </net>
 <net name="BUZZER" class="0">

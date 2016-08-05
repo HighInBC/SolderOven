@@ -162,7 +162,7 @@
 <text x="0.889" y="22.606" size="0.8128" layer="21" font="fixed" rot="R270">T+</text>
 <text x="1.016" y="10.414" size="0.8128" layer="21" font="fixed" rot="R270">T-</text>
 <text x="34.29" y="5.3975" size="0.8128" layer="21" font="fixed" rot="R180">I2C Display</text>
-<text x="23.241" y="6.6675" size="0.8128" layer="21" font="fixed" rot="R270">Beeper</text>
+<text x="23.241" y="6.6675" size="0.8128" layer="21" font="fixed" rot="R270">Buzzer</text>
 <text x="15.24" y="20.8915" size="0.8128" layer="21" font="fixed" rot="R270">WS2812B</text>
 <text x="25.781" y="22.225" size="0.8128" layer="21" font="fixed">Rotary Encoder</text>
 <text x="33.9725" y="27.686" size="0.8128" layer="21" font="fixed">Reset</text>
