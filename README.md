@@ -41,7 +41,7 @@ To reset the unit
 ###Serial port
 
 The serial port can be used to reprogram the device.
-It features an auto reset circuit on the DTR line to mimic the behaviour of an arduino nano but with an external FTDI chip.
+It features an auto reset circuit on the DTR line to mimic the behaviour of an arduino nano but with an external FTDI bpard.
 
 When not being used for programming the port can be used for peripherals such as a wifi bridge or sd card logger.
 
@@ -51,7 +51,7 @@ A MAX6675 is used to read and digitize the signal from a type-k thermocouple. Tw
 
 ###External temperature sensor
 
-A port to attach a DS18B20 temperature sensor is available. This is used to monitor the temperature of the relay and its housing. Has a built in 4.7K pull-up resistor on the data pin for the 1-wire interface.
+A port to attach one or more DS18B20 temperature sensors is available. This is used to monitor the temperature of the relay and its housing, further sensors can be added as it is a 1-wire protocol. Has a built in 4.7K pull-up resistor on the data pin for the 1-wire interface.
 
 ###Relay output
 
