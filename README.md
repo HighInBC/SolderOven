@@ -56,3 +56,11 @@ A port to attach one or more DS18B20 temperature sensors is available. This is u
 ###Relay output
 
 A port to attach the logic side of a relay to. It is expected that the relay takes a 5V logic level signal and does its own current limiting under 40mA. If your relay needs more than that then you need to add a suitable transistor.
+
+##Associated datasheets
+
+* [ATMEGA382P-AU](http://www.atmel.com/images/Atmel-8271-8-bit-AVR-Microcontroller-ATmega48A-48PA-88A-88PA-168A-168PA-328-328P_datasheet_Complete.pdf)
+* [WS2812B](https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf)
+* [MAX6675](https://datasheets.maximintegrated.com/en/ds/MAX6675.pdf)
+* [DS18B20](https://datasheets.maximintegrated.com/en/ds/DS18B20.pdf)
+* [S8050](http://www.gangyi.com.cn/UploadFiles/2007828165749876.pdf)
