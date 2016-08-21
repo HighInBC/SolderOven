@@ -22,3 +22,5 @@ Errors on board:
 
 - Mounting holes are too crowded and too close to the edges. Have to expand board size
 - The DS18B20 is attached to ADC6, this port is only for analog reading and cannot control the port. Next revision has this moved to PD5
+
+Added a bodge wire from PD5 to the DS18B20 data line. Works correctly.
